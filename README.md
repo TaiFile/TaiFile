@@ -1,4 +1,4 @@
-### Hello, I'm Vitor Taichi Taira, 18 years old, brazilian computer science student in UTFPR Ponta Grossa!!!  🫥  🫥 
+### Hello, I'm Vitor Taichi Taira, 19 years old, brazilian computer science student in UFScar São Carlos!!!  🫥  🫥 
 
  I'm a beeginer in programming so I create this GitHub to save my projects and see my evolution!!! 😎😎😎
 
