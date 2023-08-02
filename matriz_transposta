@@ -21,14 +21,17 @@ void ler_matriz(int matriz[][100], int linhas, int colunas){
 }
 
 
-void matriz_transposta(int matriz[][100], int linhas, int colunas) {
-    for (int i = 0; i < linhas; i++) {
-        for (int j = i + 1; j < colunas; j++) {
+void matriz_transposta(int matriz[][100], int *linhas, int *colunas) {
+    int dimensao = (*linhas > *colunas) ? *linhas : *colunas;
+    for (int i = 0; i < dimensao; i++) {
+        for (int j = i + 1; j < dimensao; j++) {
             int temp = matriz[i][j];
             matriz[i][j] = matriz[j][i];
             matriz[j][i] = temp;
         }
     }
+    int temp = *linhas;
+    *linhas = *colunas;
 
     printf("A matriz transposta \n");
     escrever_matriz(matriz, linhas, colunas);
@@ -46,7 +49,7 @@ int main() {
 
     ler_matriz(matriz, linhas,colunas);
 
-    matriz_transposta(matriz, linhas, colunas);
+    matriz_transposta(matriz, &linhas, &colunas);
 
     return 0;
 }
