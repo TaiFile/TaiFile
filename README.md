@@ -2,7 +2,7 @@
 
 I am a 19-year-old Brazilian computer science student at UFScar in São Carlos. As a beginner in programming, I created this GitHub to document my projects and track my development over time.
 
-📧 **Contact me:** [Gmail](mailto:your-email@gmail.com)  
+📧 **Contact me:** [Gmail](vitorttaira@outlook.com)  
 🔗 **Connect on LinkedIn:** [Vitor Taichi Taira](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/)
 
 ![TaiFile's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaiFile&show_icons=true&theme=dracula)
