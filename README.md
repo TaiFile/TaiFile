@@ -1,7 +1,7 @@
 ### Hello, I'm Vitor Taichi Taira! 🌟
 
 I am a 20-year-old Brazilian computer science student at UFScar in São Carlos. As a passionate beginner in programming, I created this GitHub to document my projects and track my development over time. I am excited to learn new languages, take on challenging projects, and continuously improve my skills.
-🔹 CATI Jr - Extracurricular Activities (Backend Development) 
+🔹 CATI Jr - Extracurricular Activities (Backend Development) </br>
 
 📧 **Contact me:** [Gmail](mailto:your-email@gmail.com)  
 🔗 **Connect on LinkedIn:** [Vitor Taichi Taira](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/)
