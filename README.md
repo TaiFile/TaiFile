@@ -11,7 +11,7 @@ QuestIO (Backend Developer) - Extracurricular Activity
 
 <div>
   <img alt="TaiFile's GitHub stats" align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=TaiFile&show_icons=true&theme=dark" />
-  <img alt="language_stats" align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiFile&layout=compact&theme=dark&exclude_repo=EnemDataset&hide=HLSL,CSS,SHADERLAB" />
+  <img alt="language_stats" align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiFile&layout=compact&theme=dark&exclude_repo=EnemDataset&hide=HLSL,CSS,SHADERLAB" />
 </div>
 
 
