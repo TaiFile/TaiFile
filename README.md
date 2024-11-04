@@ -2,12 +2,19 @@
 
 I am a 20-year-old Computer Science student at UFScar in São Carlos, Brazil. As a passionate beginner backend developer, I created this GitHub to document my projects and track my development over time. I am excited to learn new languages, take on challenging projects, and continuously improve my skills, especially in frontend development!
 
-🔹 **Experience:** CATI Jr - Extracurricular Activities (Backend Development in the QuestIO project)
+🔹 **Experience:**  
+CATI Jr (Junior Company)  
+QuestIO (Backend Developer) - Extracurricular Activity
 
 📧 **Contact me:** [Gmail](mailto:your-email@gmail.com)  
 🔗 **Connect on LinkedIn:** [Vitor Taichi Taira](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/)
 
-![TaiFile's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaiFile&show_icons=true&theme=dracula)
+<div>
+  <img alt="TaiFile's GitHub stats" align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=TaiFile&show_icons=true&theme=dark" />
+  <img alt="language_stats" align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiFile&layout=compact&theme=dark&exclude_repo=EnemDataset&hide=HLSL,CSS,SHADERLAB" />
+</div>
+
+
 
 ### Languages and Technologies:
 <div style="display: inline_block"><br>
@@ -24,6 +31,6 @@ I am a 20-year-old Computer Science student at UFScar in São Carlos, Brazil. As
 </div>
 
 ### About Me:
-I am driven by a strong desire to understand the intricacies of computer science and to create impactful projects. My journey in programming is fueled by curiosity and a commitment to mastering new technologies. I am always eager to take on new challenges, collaborate with others, and contribute to innovative solutions.
+I am driven by a strong desire to understand the intricacies of computer science and to create impactful projects. Currently, I am studying and actively seeking knowledge in web development. My journey in programming is fueled by curiosity and a commitment to mastering new technologies. I am always eager to take on new challenges, collaborate with others, and contribute to innovative solutions.
 
 I believe that each project is an opportunity to learn and grow, and I look forward to sharing my progress with the GitHub community. Let’s build something amazing together!
