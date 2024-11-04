@@ -1,7 +1,8 @@
 ### Hello, I'm Vitor Taichi Taira! 🌟
 
-I am a 20-year-old Brazilian computer science student at UFScar in São Carlos. As a passionate beginner in programming, I created this GitHub to document my projects and track my development over time. I am excited to learn new languages, take on challenging projects, and continuously improve my skills.
-🔹 CATI Jr - Extracurricular Activities (Backend Development) </br>
+I am a 20-year-old Computer Science student at UFScar in São Carlos, Brazil. As a passionate beginner backend developer, I created this GitHub to document my projects and track my development over time. I am excited to learn new languages, take on challenging projects, and continuously improve my skills, especially in frontend development!
+
+🔹 **Experience:** CATI Jr - Extracurricular Activities (Backend Development in the QuestIO project)
 
 📧 **Contact me:** [Gmail](mailto:your-email@gmail.com)  
 🔗 **Connect on LinkedIn:** [Vitor Taichi Taira](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/)
@@ -17,9 +18,12 @@ I am a 20-year-old Brazilian computer science student at UFScar in São Carlos. 
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ### About Me:
 I am driven by a strong desire to understand the intricacies of computer science and to create impactful projects. My journey in programming is fueled by curiosity and a commitment to mastering new technologies. I am always eager to take on new challenges, collaborate with others, and contribute to innovative solutions.
 
-I believe that each project is an opportunity to learn and grow, and I look forward to sharing my progress with the GitHub community. Let's build something amazing together!
+I believe that each project is an opportunity to learn and grow, and I look forward to sharing my progress with the GitHub community. Let’s build something amazing together!
