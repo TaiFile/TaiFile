@@ -80,16 +80,13 @@ Busco oportunidades para aplicar minha experiência em projetos desafiadores que
 ---
 
 ## GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TaiFile&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=534AB7&text_color=c9d1d9" width="54%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiFile&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&exclude_repo=EnemDataset&hide=HLSL,CSS,SHADERLAB" width="42%" />
-
+<img src="https://streak-stats.demolab.com?user=TaiFile&theme=github-dark&hide_border=true&background=0d1117&ring=378ADD&fire=534AB7&currStreakLabel=378ADD" alt="GitHub Streak" />
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaiFile&theme=github-compact&bg_color=0d1117&color=378ADD&line=534AB7&point=378ADD&hide_border=true" alt="Activity Graph" />
+<br/><br/>
+ 
 </div>
-
----
-
-<div align="center">
-  <i>Vamos construir algo incrível juntos.</i>
-</div>
+ 
