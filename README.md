@@ -1,37 +1,95 @@
-# Hello, I'm Vitor Taichi Taira! 🌟
+<div align="center">
 
-I am a 20-year-old Computer Science student at UFSCar in São Carlos, Brazil. As a passionate beginner backend developer, I created this GitHub to document my projects and track my development over time. I am excited to learn new languages, take on challenging projects, and continuously improve my skills, especially in frontend development!
+# Vitor Taichi Taira
 
-### 🔹 Experience:  
-- **CATI Jr** (Junior Company)  
-- **QuestIO** (Backend Developer) - Extracurricular Activity  
+**`@TaiFile`** · Ciência da Computação · UFSCar, São Carlos — BR
 
-### 📧 Contact me:
-- [Gmail](mailto:your-email@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorttaira@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaiFile)
+
+</div>
 
 ---
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img alt="TaiFile's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TaiFile&show_icons=true&theme=dark" width="54%" />
-  <img alt="language_stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiFile&layout=compact&theme=dark&exclude_repo=EnemDataset&hide=HLSL,CSS,SHADERLAB" width="42%" />
+## Sobre mim
+
+Apaixonado por software, me encontrei na área de desenvolvimento web  e busco cada vez mais aprofundar meus conhecimentos nessa área. Atualmente, curso Ciência da Computação na Universidade Federal de São Carlos (UFSCar), onde participo ativamente da CATI Jr (empresa júnior) como diretor da pasta de projetos, pasta relacionada ao desenvolvimento de aplicações web.
+
+Trabalhei também como pesquisador da instituição da FAPESP em um projeto como desenvolvedor de um sistema web de upload de imagens DICOM para processamento de imagens, com o objetivo de integrar
+médicos de diferentes hospitais à equipe de scripts de análise de imagens da universidade (Grupo BIP)
+
+Tenho interesse especial em áreas como desenvolvimento web, IHC, Engenharia de Software, IA, IoT, Redes de Computadores, Microsserviços, computação em nuvem, que são foco dos meus estudos e projetos. 
+Busco oportunidades para aplicar minha experiência em projetos desafiadores que gerem impacto tecnológico e social.
+
+---
+
+## Experiência
+
+### 🏢 CATI Jr — Diretor do Time de Desenvolvimento de Software
+`Maio 2024 – Presente · São Carlos, SP`
+
+- Coordenador e desenvolvedor full stack com **Node, Spring Boot, React e React Native**
+- Responsável por desenvolver uma cultura ágil na empresa
+- Líder de squad em grandes projetos
+- Liderança e atuação direta com clientes e empresários
+- Modelagem de banco de dados e documentação de requisitos
+
+## Stack
+
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## Idiomas
+
+- 🇧🇷 **Português** — Nativo
+- 🇺🇸 **Inglês** — Avançado
+- 🇯🇵 **Japonês** — Básico
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TaiFile&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=534AB7&text_color=c9d1d9" width="54%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiFile&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&exclude_repo=EnemDataset&hide=HLSL,CSS,SHADERLAB" width="42%" />
+
 </div>
 
-### Languages and Technologies:
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+---
 
-### About Me:
-I am driven by a strong desire to understand the intricacies of computer science and to create impactful projects. Currently, I am studying and actively seeking knowledge in web development. My journey in programming is fueled by curiosity and a commitment to mastering new technologies. I am always eager to take on new challenges, collaborate with others, and contribute to innovative solutions.
-
-I believe that each project is an opportunity to learn and grow, and I look forward to sharing my progress with the GitHub community. Let’s build something amazing together!
+<div align="center">
+  <i>Vamos construir algo incrível juntos.</i>
+</div>
